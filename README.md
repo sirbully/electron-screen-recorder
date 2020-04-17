@@ -14,10 +14,6 @@ git clone git@github.com:sirbully/electron-screen-recorder.git
 
 ```
 npm install
-
-or
-
-yarn
 ```
 
 3. Package the app based on your OS
